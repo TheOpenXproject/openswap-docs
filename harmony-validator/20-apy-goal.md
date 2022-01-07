@@ -31,7 +31,7 @@ This validator node helps create automatic and constant buying pressure for the 
 ### Example of a Token Distribution Transaction
 
 Here is a previous transaction of a token distribution:\
-[https://explorer.harmony.one/tx/0x946337be0a9843d36c007b56a2ed5768e60c1198f4c46f10d97d0a714a89bf31](https://explorer.harmony.one/tx/0x946337be0a9843d36c007b56a2ed5768e60c1198f4c46f10d97d0a714a89bf31)&#x20;
+[https://explorer.harmony.one/tx/0x8578df2ee4860f49a29702b1392448d5b09feadb03c5c4d059d63e49e504ff49](https://explorer.harmony.one/tx/0x8578df2ee4860f49a29702b1392448d5b09feadb03c5c4d059d63e49e504ff49)
 
 The transactions for the validator can be found by looking up your delegator address on the Harmony Explorer and going to the 'HRC20 Transfers' tab.
 
