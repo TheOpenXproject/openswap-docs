@@ -32,7 +32,7 @@ At OpenSwap, we understand the importance our community plays in the sustainabil
 
 ### _**Your money, Your rewards**_
 
-On OpenSwap, you will never receive unnecessary fees to control your funds.  There is only one fee on OpenSwap; each token swap will be subject to 0.30 % fee.  This fee has a very specific purpose.  It will be divided equally between being distributed to the LP providers and the burn pool.  This provides additional incentive for the customers who provide liquidity as well as a vital aspect to our tokenomics.  With OpenSwap, there are ZERO fees for staking a LP and ZERO fees for unstaking a LP.  All rewards on OpenSwap are unlocked and available to the end user immediately upon claiming.  Your money, your rewards. There is a trend in crypto of inflating APRs on staking by locking rewards or charging fees to stake / unstake LPs.  Be cautious of chasing crazy APRs; everything has a price. &#x20;
+On OpenSwap, you will never receive unnecessary fees to control your funds.  There is only one fee on OpenSwap; each token swap will be subject to 0.30 % fee ( 0.15% towards burn and 0.15% distributed to LP providers). It will be divided equally between being distributed to the LP providers and the burn pool.  This provides additional incentive for the customers who provide liquidity as well as a vital aspect to our tokenomics.  With OpenSwap, there are ZERO fees for staking a LP and ZERO fees for unstaking a LP.  All rewards on OpenSwap are unlocked and available to the end user immediately upon claiming.  Your money, your rewards. There is a trend in crypto of inflating APRs on staking by locking rewards or charging fees to stake / unstake LPs.  Be cautious of chasing crazy APRs; everything has a price. &#x20;
 
 ### _**Security**_
 
