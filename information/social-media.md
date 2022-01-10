@@ -12,7 +12,14 @@ YouTube Channel: [https://www.youtube.com/channel/UC0C2YQ0ZpnIlCKTj0kCEXiA](http
 Github: [https://github.com/TheOpenFinanceProject](https://github.com/TheOpenFinanceProject)\
 Linktree: [https://linktr.ee/openswap](https://linktr.ee/openswap)\
 \
-CoinGecko: [https://www.coingecko.com/en/coins/openswap-token](https://www.coingecko.com/en/coins/openswap-token)\
+CoinGecko: \
+token: [https://www.coingecko.com/en/coins/openswap-token](https://www.coingecko.com/en/coins/openswap-token)\
+exchange: [https://www.coingecko.com/en/exchanges/openswap](https://www.coingecko.com/en/exchanges/openswap)
+
+CoinMarketCap: \
+token: [https://coinmarketcap.com/currencies/open-swap/](https://coinmarketcap.com/currencies/open-swap/)\
+exchange: [https://coinmarketcap.com/exchanges/openswapharmony/](https://coinmarketcap.com/exchanges/openswapharmony/)
+
 Dexscreener: [https://dexscreener.com/harmony/openswap](https://dexscreener.com/harmony/openswap)
 
 
