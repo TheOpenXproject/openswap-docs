@@ -6,7 +6,7 @@ description: Tokenomics of the OpenSwap token
 
 **OpenX HRC20 Token Address : 0x01A4b054110d57069c1658AFBC46730529A3E326**
 
-OpenSwap’s native token, OpenX, provides the foundation for the exchange. It is a means of payment to liquidity providers for the fees collected by trades. It will also function as voting power for holders who wish to have a say in the project.&#x20;
+OpenSwap’s native token, OpenX, provides the foundation for the exchange. It is a means of payment to liquidity providers for the fees collected by trades.&#x20;
 
 There was no presale or ICO for OpenX. All tokens in circulation were fairly distributed to Liquidity Providers and single asset stakers. The OpenSwap token underwent a migration from V1 to V2 in October of 2021. Please refer to the V2 migration documentation in the menu for additional information.
 
