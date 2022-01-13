@@ -6,7 +6,7 @@ description: >-
 
 # Introducción
 
-**Diseño único y elegante. De lo mejor en seguridad. Staking con altas recompensas. Pools con liquidez abierta.**
+**Diseño único y elegante. De lo mejor en seguridad. Staking con altas recompensas. Fondos de liquidez abierta.**
 
 OpenSwap es un protocolo DeFi en la red the Harmony con capacidades simples de farmeo estilo yield; herramientas de cross-chain (posibilita la interacción entre diferentes blockchains) para cruzar entre las redes Harmony, Ethereum y Binance Smart Chain; y formas fáciles de intercambio, provisión de liquidez y obtener las tarifas recolectadas a partir de las transacciones.&#x20;
 
