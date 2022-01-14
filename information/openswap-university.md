@@ -23,6 +23,9 @@ __An introductory guide to the Harmony Browser Wallet, Harmony Staking site, and
 [OpenSwap University 201: Bridging tokens on Harmony](https://openswap-harmony.medium.com/openswap-university-201-bridging-tokens-on-harmony-14e9dd1073cf?source=your\_stories\_page----------------------------------------)__\
 __An introductory guide to bridging tokens using OpenSwap's $ONE click bridge
 
+[OpenSwap University 202: Compounding Crypto](https://openswap-harmony.medium.com/compounding-crypto-bec4d413e99c)__\
+__Compounding rewards is a strategy allowing you to increase your return percent with little effort. This article dives in compounding crypto.
+
 ### _Additional Articles about DeFi, Harmony, and OpenSwap_
 
 __[Liquidity: The building blocks of decentralized finance](https://openswap-harmony.medium.com/liquidity-the-building-blocks-of-decentralized-finance-5609b6aa45b9?source=your\_stories\_page-------------------------------------)__\

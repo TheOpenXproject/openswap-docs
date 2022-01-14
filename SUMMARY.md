@@ -50,6 +50,4 @@
 * [OpenSwap University](information/openswap-university.md)
 * [Social Media](information/social-media.md)
 * [Medium Articles](information/medium-articles.md)
-* [FAQ](information/faq.md)
-* [OpenSwap V2 Migration](information/openswap-v2-migration/README.md)
-  * [V2 Migration FAQs](information/openswap-v2-migration/v2-migration-faqs.md)
+* [OpenSwap V2 Migration](information/openswap-v2-migration.md)

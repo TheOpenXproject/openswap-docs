@@ -1,5 +1,8 @@
 # Medium Articles
 
+2022/01/12: [Compounding Crypto](https://openswap-harmony.medium.com/compounding-crypto-bec4d413e99c?source=your\_stories\_page----------------------------------------)__\
+__Compounding rewards is a strategy allowing you to increase your return percent with little effort. This article dives in compounding crypto.
+
 2021/12/16: [OpenSwap Validator Upgrade](https://openswap-harmony.medium.com/openswap-validator-upgrade-45d1cd119c14?source=your\_stories\_page----------------------------------------)__\
 __OpenSwap has always been on the cutting edge of creativity for Harmony validators. It is time to take it to the next level.
 

@@ -70,7 +70,11 @@ For a Metamask wallet:\
 **STEP 3:** In the ‘Token Contract Address’ enter in the OpenX address **0x01A4b054110d57069c1658AFBC46730529A3E326.** \
 **STEP 4:** Click ‘Add Custom Token’ button.
 
-#### For a Harmony wallet: **STEP 1:** Enter your Harmony Wallet click on ‘HRC20’. **STEP 2:** Click the plus sign at the bottom of the popup. **STEP 3:** In the ‘Token Contract Address’ enter in the OpenX address **one1qxjtq4q3p4tsd8qktzhmc3nnq5568cexh9c90j** . **STEP 4:** Click Add.
+_**For a Harmony wallet:**_\
+**STEP 1:** Enter your Harmony Wallet click on ‘HRC20’. \
+**STEP 2:** Click the plus sign at the bottom of the popup. \
+**STEP 3:** In the ‘Token Contract Address’ enter in the OpenX address **one1qxjtq4q3p4tsd8qktzhmc3nnq5568cexh9c90j** . \
+**STEP 4:** Click Add.&#x20;
 
 \
 **V2 Enhancements**
