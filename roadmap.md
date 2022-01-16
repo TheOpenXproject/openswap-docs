@@ -1,3 +1,7 @@
+---
+description: Mejoras y actualizaciones planificadas
+---
+
 # Roadmap
 
 Se creó una hoja de ruta que se alinea con la visión y los objetivos futuros de OpenSwap. La hoja de ruta actual está diseñada para ejecutarse entre el segundo trimestre de 2021 y el cuarto trimestre de 2022
@@ -9,7 +13,7 @@ Se creó una hoja de ruta que se alinea con la visión y los objetivos futuros d
 ### **Completados**
 
 * UI: V2 (completada en Agosto 2021)
-* Bridge: (completada en Septiembre 2021)
+* Bridge: (completado en Septiembre 2021)
 * Auditado por 0xGuard: (completado en Septiembre 2021)&#x20;
 * Pagina de Analíticas (completada en Octubre 2021)
-* OpenSwap V2: OpenX, Opinions, auditaciones y mejoras de seguridad (completado en Octubre 2021)
+* OpenSwap V2: OpenX, Opinions, auditorías mejoras de seguridad (completado en Octubre 2021)
