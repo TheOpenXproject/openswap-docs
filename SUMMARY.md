@@ -5,3 +5,7 @@
 * [Características](caracteristicas.md)
 * [Roadmap](roadmap.md)
 * [Auditorias](auditorias.md)
+
+## TOKENOMICS
+
+* [OpenX](tokenomics/openx.md)
