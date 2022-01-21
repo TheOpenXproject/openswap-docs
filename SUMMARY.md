@@ -24,3 +24,6 @@
   * [Dirección Harmony ONE](guias-de-usuario/billeteras/direccion-harmony-one.md)
 * [Tokens](guias-de-usuario/tokens/README.md)
   * [Agregar tokens a una billetera](guias-de-usuario/tokens/agregar-tokens-a-una-billetera.md)
+* [Liquidez](guias-de-usuario/liquidez/README.md)
+  * [Agregando Liquidez](guias-de-usuario/liquidez/agregando-liquidez.md)
+  * [Quitar Liquidez](guias-de-usuario/liquidez/quitar-liquidez.md)
