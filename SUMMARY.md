@@ -42,3 +42,11 @@
 
 * [OpenSwap $ONE click bridge](transferir-activos-en-el-puente/openswap-usdone-click-bridge/README.md)
   * [Puente desde Harmony](transferir-activos-en-el-puente/openswap-usdone-click-bridge/puente-desde-harmony.md)
+
+## INFORMACIÓN
+
+* [Contratos inteligentes](informacion/contratos-inteligentes.md)
+* [Universidad OpenSwap](informacion/universidad-openswap.md)
+* [Propuesta de subvención de Harmony](informacion/propuesta-de-subvencion-de-harmony.md)
+* [Redes sociales](informacion/redes-sociales.md)
+* [Artículos de medium](informacion/articulos-de-medium.md)
