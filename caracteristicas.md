@@ -9,5 +9,5 @@ OpenSwap es un exchange descentralizado sin custodia rápido y seguro que sirve 
 * Gane recompensas apostando en lucrativos fondos de liquidez incentivados
 * Perfil de farm personalizado para detallar sus recompensas, incluido el valor total de la participación, el porcentaje de APR promedio, las recompensas totales actuales y las recompensas totales actuales en USD
 * Conexión simplificada de tokens/monedas hacia y desde Harmony, Ethereum y Binance Smart Chain Network&#x20;
-* Recaudar tarifas sobre la liquidez proporcionada sin hacer staking&#x20;
+* Recaudar tarifas sobre la liquidez proporcionada sin depositar tokens
 * Votar sobre las decisiones de gobernanza, incluida la adición de nuevos tokens

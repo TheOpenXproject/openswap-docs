@@ -27,3 +27,5 @@
 * [Liquidez](guias-de-usuario/liquidez/README.md)
   * [Agregando Liquidez](guias-de-usuario/liquidez/agregando-liquidez.md)
   * [Quitar Liquidez](guias-de-usuario/liquidez/quitar-liquidez.md)
+* [Depositando Tokens](guias-de-usuario/depositando-tokens/README.md)
+  * [Cómo depositar LPs](guias-de-usuario/depositando-tokens/como-depositar-lps.md)
