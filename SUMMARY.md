@@ -50,3 +50,4 @@
 * [Propuesta de subvención de Harmony](informacion/propuesta-de-subvencion-de-harmony.md)
 * [Redes sociales](informacion/redes-sociales.md)
 * [Artículos de medium](informacion/articulos-de-medium.md)
+* [Migración de OpenSwap V2](informacion/migracion-de-openswap-v2.md)
