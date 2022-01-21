@@ -32,13 +32,3 @@ MATIC\
 ![](../../.gitbook/assets/tokenmatic.png)
 
 ****
-
-### **Available Tokens**
-
-A list of all tokens can be found o_n the tokens page.  The page can be found in the main menu by clicking on 'more' and then 'tokens'._ [_https://app.openswap.one/tokens_](https://app.openswap.one/tokens)__
-
-_**Harmony:**_ OpenX, ONE, VIPER, VINCI, hMOCHI, LMA, XYA, SEED, ARANK, EUSK, SEE\
-_**Binance Smart Chain**:_ bBNB, bBUSD, bMATIC, bADA, bETH, bUSDT, bCAKE, bUSDC, bBAKE, bMOCHI, bLINK\
-_**Ethereum:**_ eETH, eBUSD, eWBTC, eUSDC, eLINK, eYFL, eAAVE, ePAXG, eZRX, eUSDT, eDAI, eUNI, eIDRT, eLMA, eSUSHI, eYFI, eREN, eCRO, eKNC, eCOMP, eBAT, eLAYER, eBAL, eMATIC, eFRONT, eUNFI, eUP, eHEX\
-_**Terra:**_ tWLUNA, tUST\
-_**Polygon:**_ pWMATIC, pWBTC, pWETH
