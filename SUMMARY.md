@@ -29,3 +29,5 @@
   * [Quitar Liquidez](guias-de-usuario/liquidez/quitar-liquidez.md)
 * [Depositando Tokens](guias-de-usuario/depositando-tokens/README.md)
   * [Cómo depositar LPs](guias-de-usuario/depositando-tokens/como-depositar-lps.md)
+  * [Reclamar recompensas](guias-de-usuario/depositando-tokens/reclamar-recompensas.md)
+  * [Remover LPs depositados](guias-de-usuario/depositando-tokens/remover-lps-depositados.md)
