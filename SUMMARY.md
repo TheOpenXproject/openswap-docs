@@ -31,3 +31,14 @@
   * [Cómo depositar LPs](guias-de-usuario/depositando-tokens/como-depositar-lps.md)
   * [Reclamar recompensas](guias-de-usuario/depositando-tokens/reclamar-recompensas.md)
   * [Remover LPs depositados](guias-de-usuario/depositando-tokens/remover-lps-depositados.md)
+  * [ONE Token (Deposito individual)](guias-de-usuario/depositando-tokens/one-token-deposito-individual.md)
+* [Delegando $ONE](guias-de-usuario/delegando-usdone/README.md)
+  * [Delegando $ONE](guias-de-usuario/delegando-usdone/delegando-usdone.md)
+  * [Remover delegación $ONE](guias-de-usuario/delegando-usdone/remover-delegacion-usdone.md)
+  * [Actualización del porcentaje de recompensa](guias-de-usuario/delegando-usdone/actualizacion-del-porcentaje-de-recompensa.md)
+* [Quemado de Tokens](guias-de-usuario/quemado-de-tokens.md)
+
+## TRANSFERIR ACTIVOS EN EL PUENTE
+
+* [OpenSwap $ONE click bridge](transferir-activos-en-el-puente/openswap-usdone-click-bridge/README.md)
+  * [Puente desde Harmony](transferir-activos-en-el-puente/openswap-usdone-click-bridge/puente-desde-harmony.md)
