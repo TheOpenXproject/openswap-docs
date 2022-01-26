@@ -57,11 +57,11 @@ If you have oSwap in single stake or staked LPs, please follow these steps for t
 **STEP 17:** Enter the amount of oSwap to migrate. We suggest using the ‘max’ button for this feature.\
 **STEP 18:** Click ‘Approve’. \
 **STEP 19:** Your wallet will prompt you to approve OpenSwap for conducting a transaction with this token, approve it. \
-**STEP 21:** Click ‘Migrate’\
-**STEP 22:** Your wallet will prompt you to confirm the transaction, approve it. \
+**STEP 20:** Click ‘Migrate’\
+**STEP 21:** Your wallet will prompt you to confirm the transaction, approve it. \
 There will be two notifications when you submit a transaction: transaction sent and Transaction successful.\
-**STEP 23:** Add the OpenX token so it is visible in your wallet (see below).\
-**STEP 24:** At this time, you can recreate LPs and stake.
+**STEP 22:** Add the OpenX token so it is visible in your wallet (see below).\
+**STEP 23:** At this time, you can recreate LPs and stake.
 
 _**Adding OpenX to your Wallet:**_\
 For a Metamask wallet:\
