@@ -14,7 +14,7 @@ Security is of the utmost importance to OpenSwap and will always be one driving 
 
 **Audit Report:** [https://github.com/0xGuard-com/audit-reports/blob/master/openswap\_v2/OpenSwapV2\_final-audit-report.pdf](https://github.com/0xGuard-com/audit-reports/blob/master/openswap\_v2/OpenSwapV2\_final-audit-report.pdf)
 
-**Summary:** An audit was completed on V2 in October of 2021. There are 0 high and 0 medium defects with the V2 smart contracts. All concerns from V1 were eliminated in this audit. Most importantly, the audit confirms OpenSwap is 100% rug-proof. &#x20;
+**Summary:** An audit was completed on V2 in October of 2021. There are 0 high and 0 medium defects with the V2 smart contracts. All concerns from V1 were eliminated in this audit. Most importantly, the audit confirms OpenSwap obtained it's task of offering the ultimate security through smart contracts. &#x20;
 
 As you read through the audit, please pay attention to the update area for any of the issues listed.  &#x20;
 
