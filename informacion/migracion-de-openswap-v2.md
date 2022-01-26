@@ -59,10 +59,10 @@ _****_**PASO 14:** Ir a [https://app.openswap.one](https://app.openswap.one)\
 **PASO 17:** Ingrese la cantidad de oSwap para migrar. Sugerimos usar el botón 'máximo' para esta función.\
 **PASO 18:** Haga clic en 'Aprobar'.\
 **PASO 19:** Su billetera le pedirá que apruebe OpenSwap para realizar una transacción con este token, apruébelo.\
-**PASO 21:** Haga clic en 'Migrar'\
-**PASO 22:** Su billetera le pedirá que confirme la transacción, apruébela. Habrá dos notificaciones cuando envíe una transacción: transacción enviada y transacción exitosa.\
-**PASO 23:** Agregue el token OpenX para que sea visible en su billetera (ver más abajo).\
-**PASO 24:** En este momento, puede recrear LP y depositar.
+**PASO 20:** Haga clic en 'Migrar'\
+**PASO 21:** Su billetera le pedirá que confirme la transacción, apruébela. Habrá dos notificaciones cuando envíe una transacción: transacción enviada y transacción exitosa.\
+**PASO 22:** Agregue el token OpenX para que sea visible en su billetera (ver más abajo).\
+**PASO 23:** En este momento, puede recrear LP y depositar.
 
 _**Agregar OpenX a su billetera:**_
 
