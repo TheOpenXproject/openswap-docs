@@ -22,8 +22,6 @@ There is a farm on OpenSwap that automatically injects the additional percentage
 
 From here, stake your rewards in the OpenX/ONE LP on OpenSwap to increase your returns. Compounding rewards (collecting your rewards, creating LPs, and restaking them) will drastically increase the return percentage you receive. We recommend compounding weekly as it has the best return for the least amount of effort. Since OpenSwap operates on Harmony, no need to worry about transaction fees. Each transaction is a fraction of a penny. It is this compounding that results in greater APY% returns.
 
-### ****
-
 ### **Impact the validator has on OpenX**
 
 This validator node helps create automatic and constant buying pressure for the OpenSwap token.  ****  Conducting the buys every 30 minutes, there will always be a constant influx of OpenX purchase. &#x20;
@@ -35,4 +33,10 @@ Here is a previous transaction of a token distribution:\
 
 The transactions for the validator can be found by looking up your delegator address on the Harmony Explorer and going to the 'HRC20 Transfers' tab.
 
-****
+
+
+### User Guides for access the validator on OpenSwap
+
+{% content-ref url="../guide/staking-usdone/staking-usdone.md" %}
+[staking-usdone.md](../guide/staking-usdone/staking-usdone.md)
+{% endcontent-ref %}
