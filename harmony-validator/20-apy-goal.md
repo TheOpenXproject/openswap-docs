@@ -33,9 +33,7 @@ Here is a previous transaction of a token distribution:\
 
 The transactions for the validator can be found by looking up your delegator address on the Harmony Explorer and going to the 'HRC20 Transfers' tab.
 
-
-
-### User Guides for access the validator on OpenSwap
+### User Guides for using the validator on OpenSwap
 
 {% content-ref url="../guide/staking-usdone/staking-usdone.md" %}
 [staking-usdone.md](../guide/staking-usdone/staking-usdone.md)
