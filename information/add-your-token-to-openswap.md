@@ -8,11 +8,11 @@ To have your token made available in Community tokens section, create a PR with 
 
 • No brand new tokens
 
-• Tokens must be added end of file
+• Tokens must be added to the end of the file
 
 • Must have all variables set
 
-• Must provide official links for us to verify data entered. No explorer links
+• Must provide official links for us to verify data entered. No explorer links.
 
 • Incomplete or invalid data will be rejected
 
