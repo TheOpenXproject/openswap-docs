@@ -52,4 +52,4 @@
 * [Social Media](information/social-media.md)
 * [Medium Articles](information/medium-articles.md)
 * [OpenSwap V2 Migration](information/openswap-v2-migration.md)
-* [List your Token to OpenSwap](information/list-your-token-to-openswap.md)
+* [List your token to OpenSwap](information/list-your-token-to-openswap.md)
