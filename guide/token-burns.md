@@ -16,7 +16,7 @@ The BurnBot operates under the following address: 0xba6D03d5736F6DD0c04B2E026BC8
 
 [https://explorer.harmony.one/address/0xba6d03d5736f6dd0c04b2e026bc83dd5eb8d5460](https://explorer.harmony.one/address/0xba6d03d5736f6dd0c04b2e026bc83dd5eb8d5460)\
 \
-Token burns occur regularly and multiple ties through each hour.  If the burn bot crashes for any length of time, OpenSwap will continue to compile fees, that will be burned once the bot is active again.\
+Token burns occur regularly and multiple times through each hour.  If the burn bot crashes for any length of time, OpenSwap will continue to compile fees, that will be burned once the bot is active again.\
 \
 OpenSwap does not have a burn wallet.  We send them directly to 0X0 to be destroyed immediately and permanently.
 
