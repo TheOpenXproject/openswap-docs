@@ -34,10 +34,10 @@
   * [Claiming Rewards](guide/staking-lp-and-earning-openswap/claiming-rewards.md)
   * [Remove Staked LPs](guide/staking-lp-and-earning-openswap/remove-staked-lps.md)
   * [ONE token (Single Stake)](guide/staking-lp-and-earning-openswap/one-token-single-stake.md)
-* [Staking $ONE](guide/staking-usdone/README.md)
-  * [Staking $ONE](guide/staking-usdone/staking-usdone.md)
-  * [Unstaking $ONE](guide/staking-usdone/unstaking-usdone.md)
-  * [Updating Reward Ratio](guide/staking-usdone/updating-reward-ratio.md)
+* [Delegating $ONE on OpenSwap](guide/delegating-usdone-on-openswap/README.md)
+  * [Staking $ONE](guide/delegating-usdone-on-openswap/staking-usdone.md)
+  * [Unstaking $ONE](guide/delegating-usdone-on-openswap/unstaking-usdone.md)
+  * [Updating Reward Ratio](guide/delegating-usdone-on-openswap/updating-reward-ratio.md)
 
 ## Bridge Assets
 

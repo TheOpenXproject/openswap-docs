@@ -4,11 +4,11 @@
 
 One of our largest goals is to accomplish the vision of Harmony’s founder Stephen Tse. We are working to provide Universal Basic income for the people of the world. Utilizing Harmony’s staking platform combined with our liquidity pools we will bring 20% yields to single staking on Harmony, helping provide financial freedom for billions worldwide.
 
-You can access the OpenX validator through the [Harmony Staking site](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) or through [OpenSwap](../guide/staking-usdone/).  At this time, you must use the Harmony browser wallet if you are delegating to the OpenSwap validator.  This is a Harmony limitation, not OpenSwap.
+You can access the OpenX validator through the [Harmony Staking site](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) or through [OpenSwap](../guide/delegating-usdone-on-openswap/).  At this time, you must use the Harmony browser wallet if you are delegating to the OpenSwap validator.  This is a Harmony limitation, not OpenSwap.
 
 When you delegate ONE tokens to this Harmony One validator pool, you will default to receiving 100% of your rewards in the form of OpenX Tokens.  This is why there is a 100% fee, 95% is sent back as OpenX and 5% is kept as a constant fee for server maintenance and cost.  This 5% maintenance fee is required by Harmony and the lowest we are allowed to set it at.&#x20;
 
-If you [access your delegated tokens through OpenSwap](../guide/staking-usdone/updating-reward-ratio.md), you can change the percentage of rewards you receive in OpenX. You can now adjust the percentage of the rewards you receive.  &#x20;
+If you [access your delegated tokens through OpenSwap](../guide/delegating-usdone-on-openswap/updating-reward-ratio.md), you can change the percentage of rewards you receive in OpenX. You can now adjust the percentage of the rewards you receive.  &#x20;
 
 ### **How do we accomplish 20% APY?**
 
@@ -35,6 +35,6 @@ The transactions for the validator can be found by looking up your delegator add
 
 ### User Guides for using the validator on OpenSwap
 
-{% content-ref url="../guide/staking-usdone/staking-usdone.md" %}
-[staking-usdone.md](../guide/staking-usdone/staking-usdone.md)
+{% content-ref url="../guide/delegating-usdone-on-openswap/staking-usdone.md" %}
+[staking-usdone.md](../guide/delegating-usdone-on-openswap/staking-usdone.md)
 {% endcontent-ref %}
