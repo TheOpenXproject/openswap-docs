@@ -10,6 +10,7 @@
 
 * [OpenX](tokenomics/openswap-token.md)
 * [Opinion](tokenomics/opinion.md)
+* [Token Burns](tokenomics/token-burns.md)
 
 ## Harmony ONE Validators <a href="#harmony-validator" id="harmony-validator"></a>
 
@@ -37,7 +38,6 @@
   * [Staking $ONE](guide/staking-usdone/staking-usdone.md)
   * [Unstaking $ONE](guide/staking-usdone/unstaking-usdone.md)
   * [Updating Reward Ratio](guide/staking-usdone/updating-reward-ratio.md)
-* [Token Burns](guide/token-burns.md)
 
 ## Bridge Assets
 
