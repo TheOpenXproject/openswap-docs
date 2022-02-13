@@ -1,6 +1,6 @@
-# OpenX 20% APY Validator
+# OpenX Auto-Compound 20% APY Validator
 
-### **OpenX Node 20% APY : where earning up to 20% APY begins**
+### OpenX Auto-Compound 20% APY **: where earning up to 20% APY begins**
 
 One of our largest goals is to accomplish the vision of Harmony’s founder Stephen Tse. We are working to provide Universal Basic income for the people of the world. Utilizing Harmony’s staking platform combined with our liquidity pools we will bring 20% yields to single staking on Harmony, helping provide financial freedom for billions worldwide.
 
@@ -12,7 +12,7 @@ If you [access your delegated tokens through OpenSwap](../guide/delegating-usdon
 
 ### **How do we accomplish 20% APY?**
 
-It all starts with the [OpenX 20% Validator](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) on the Harmony One staking site.  ****  Stake your $ONE tokens with the validator.  When $ONE rewards are created, the rewards issued will be swapped for OpenX tokens at market price.  The token swap occurs every 30 minutes; these tokens will then be sent to the corresponding wallet of the delegator.  The OpenX tokens are converted and sent in a single tx to all the delegators based on their stake weight. Same way it would on a normal validator.  Next we move to the bonus rewards that you receive.
+It all starts with the [OpenX Auto-Compound 20% Validator](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) on the Harmony One staking site.  ****  Stake your $ONE tokens with the validator.  When $ONE rewards are created, the rewards issued will be swapped for OpenX tokens at market price.  The token swap occurs every 30 minutes; these tokens will then be sent to the corresponding wallet of the delegator.  The OpenX tokens are converted and sent in a single tx to all the delegators based on their stake weight. Same way it would on a normal validator.  Next we move to the bonus rewards that you receive.
 
 ### **Bonus Rewards!!**
 

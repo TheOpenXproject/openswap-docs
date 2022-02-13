@@ -14,7 +14,7 @@
 
 ## Harmony ONE Validators <a href="#harmony-validator" id="harmony-validator"></a>
 
-* [OpenX 20% APY Validator](harmony-validator/20-apy-goal.md)
+* [OpenX Auto-Compound 20% APY Validator](harmony-validator/20-apy-goal.md)
 * [15% OpenSwap rewards](harmony-validator/15-oswap-rewards.md)
 
 ## User Guide <a href="#guide" id="guide"></a>
@@ -37,6 +37,7 @@
 * [Delegating $ONE on OpenSwap](guide/delegating-usdone-on-openswap/README.md)
   * [Staking $ONE](guide/delegating-usdone-on-openswap/staking-usdone.md)
   * [Unstaking $ONE](guide/delegating-usdone-on-openswap/unstaking-usdone.md)
+  * [Auto-Compounding Rewards](guide/delegating-usdone-on-openswap/auto-compounding-rewards.md)
   * [Updating Reward Ratio](guide/delegating-usdone-on-openswap/updating-reward-ratio.md)
 
 ## Bridge Assets

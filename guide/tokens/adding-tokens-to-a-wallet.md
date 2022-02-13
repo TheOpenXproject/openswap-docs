@@ -8,7 +8,7 @@ OpenX HRC20 Token Address : 0x01A4b054110d57069c1658AFBC46730529A3E326
 
 For a Harmony wallet, enter your Harmony Wallet click on 'HRC20'.  Click the plus sign at the bottom of the popup. In the 'Token Contract Address' enter in the OpenX address (0x01A4b054110d57069c1658AFBC46730529A3E326).  Click Add.
 
-For a Metamask wallet, enter your Metamask wallet and scroll to the bottom of the popup. Click 'Import Tokens'. In the 'Token Contract Address' enter in the oSwap address (0x01A4b054110d57069c1658AFBC46730529A3E326).  Click 'Add Custom Token' button.
+For a Metamask wallet, enter your Metamask wallet and scroll to the bottom of the popup. Click 'Import Tokens'. In the 'Token Contract Address' enter in the OpenX address (0x01A4b054110d57069c1658AFBC46730529A3E326).  Click 'Add Custom Token' button.
 
 
 
