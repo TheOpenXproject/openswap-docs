@@ -16,6 +16,11 @@
 
 * [OpenX Auto-Compound 20% APY Validator](harmony-validator/20-apy-goal.md)
 * [15% OpenSwap rewards](harmony-validator/15-oswap-rewards.md)
+* [Delegating $ONE on OpenSwap](harmony-validator/delegating-usdone-on-openswap/README.md)
+  * [Staking $ONE](harmony-validator/delegating-usdone-on-openswap/staking-usdone.md)
+  * [Unstaking $ONE](harmony-validator/delegating-usdone-on-openswap/unstaking-usdone.md)
+  * [Auto-Compounding Rewards](harmony-validator/delegating-usdone-on-openswap/auto-compounding-rewards.md)
+  * [Updating Reward Ratio](harmony-validator/delegating-usdone-on-openswap/updating-reward-ratio.md)
 
 ## User Guide <a href="#guide" id="guide"></a>
 
@@ -34,11 +39,6 @@
   * [Claiming Rewards](guide/staking-lp-and-earning-openswap/claiming-rewards.md)
   * [Remove Staked LPs](guide/staking-lp-and-earning-openswap/remove-staked-lps.md)
   * [ONE token (Single Stake)](guide/staking-lp-and-earning-openswap/one-token-single-stake.md)
-* [Delegating $ONE on OpenSwap](guide/delegating-usdone-on-openswap/README.md)
-  * [Staking $ONE](guide/delegating-usdone-on-openswap/staking-usdone.md)
-  * [Unstaking $ONE](guide/delegating-usdone-on-openswap/unstaking-usdone.md)
-  * [Auto-Compounding Rewards](guide/delegating-usdone-on-openswap/auto-compounding-rewards.md)
-  * [Updating Reward Ratio](guide/delegating-usdone-on-openswap/updating-reward-ratio.md)
 
 ## Bridge Assets
 

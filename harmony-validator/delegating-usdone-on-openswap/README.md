@@ -1,8 +1,12 @@
-# Staking $ONE
+# Delegating $ONE on OpenSwap
 
 With OpenSwap, you have the ability to control your delegated tokens directly through the OpenSwap website on the 'Farm' page. Granting the ability to stake / unstake and view details about your delegated tokens all on OpenSwap. The ability to choose the percentage of rewards you would like to receive in OpenX grants the user more flexibility with their rewards.
 
 This interface allows you to stake or unstake $ONE with the validator directly through the OpenSwap website while using the Harmony Browser Wallet. Alleviating the need to visit multiple websites unnecessarily. OpenSwap is your one stop shop for DeFi.
+
+### Only Harmony Validator with Auto-Compounding
+
+OpenSwap grants you the ability to compound your $ONE rewards directly into an OpenX LP and have it staked automatically! This exact process will happen several times a day. This puts your validator rewards to work for you automatically and often.
 
 ### Control your destiny: Choose the percentage of OpenX rewards
 
