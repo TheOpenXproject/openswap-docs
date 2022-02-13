@@ -2,7 +2,7 @@
 
 
 
-OpenSwap grants you the ability to compound your $ONE rewards directly into an OpenX LP and have it staked automatically! This exact process will happen every hour.&#x20;
+OpenSwap grants you the ability to compound your $ONE rewards directly into an OpenX LP and have it staked automatically! This exact process will happen several times a day.&#x20;
 
 Let’s dive into the details. Our smart contracts will take 50% of the $ONE rewards generated and market purchase $OpenX. The smart contracts then use the other 50% of your $ONE rewards and purchase a token the end user selected on OpenSwap. The two tokens will be used to create LP tokens and automatically staked on the OpenSwap farm. That is a lot work from some amazing smart contracts!
 
