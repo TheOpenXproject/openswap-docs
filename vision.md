@@ -2,7 +2,7 @@
 
 OpenSwap in conjunction with Harmony will strive to fulfill the mission statement of creating a “radically fairer economy”. Our goal is to provide the tightest markets with the best available fills on all Layer 1 pairs in DeFi. Creating a liquid marketplace for everyone to move from chain to chain with our simplified bridges. Helping Harmony become a global hub for cross chain transactions.
 
-One of our largest goals is to accomplish the vision of Harmony’s founder Stephen Tse. We are working to provide Universal Basic income for the people of the world. Utilizing Harmony’s staking platform combined with our liquidity pools we will bring 20% yields to single staking on Harmony, helping provide financial freedom for billions worldwide.
+One of our largest goals is to accomplish the vision of Harmony’s founder Stephen Tse. We are working to provide Decentralized Basic income for the people of the world. Utilizing Harmony’s staking platform combined with our liquidity pools we will bring 20% yields to single staking on Harmony, helping provide financial freedom for billions worldwide.
 
 OpenSwap strives for a simple elegance in design. Mixed with our fundamentals, you will see the true vision of OpenSwap.
 
