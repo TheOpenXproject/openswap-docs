@@ -1,6 +1,6 @@
 # Unstaking $ONE
 
-**STEP 1:** Go to Openswap.one \*\*Confirm your Harmony Browser wallet selected is connected to the site.\*\*\
+**STEP 1:** Go to Openswap.one \
 **STEP 2:** Click on ‘Farm’ in the menu\
 **STEP 3:** Click ‘Details’ on the validator of your choosing\
 **STEP 4:** Click on the ‘Unstaking’ tab\

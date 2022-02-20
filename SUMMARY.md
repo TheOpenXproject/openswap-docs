@@ -15,7 +15,6 @@
 ## Harmony ONE Validators <a href="#harmony-validator" id="harmony-validator"></a>
 
 * [OpenX Auto-Compound 20% APY Validator](harmony-validator/20-apy-goal.md)
-* [15% OpenSwap rewards](harmony-validator/15-oswap-rewards.md)
 * [Delegating $ONE on OpenSwap](harmony-validator/delegating-usdone-on-openswap/README.md)
   * [Staking $ONE](harmony-validator/delegating-usdone-on-openswap/staking-usdone.md)
   * [Unstaking $ONE](harmony-validator/delegating-usdone-on-openswap/unstaking-usdone.md)
@@ -54,3 +53,4 @@
 * [Medium Articles](information/medium-articles.md)
 * [OpenSwap V2 Migration](information/openswap-v2-migration.md)
 * [List your token to OpenSwap](information/list-your-token-to-openswap.md)
+* [15% OpenSwap rewards](information/15-oswap-rewards.md)

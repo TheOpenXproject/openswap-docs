@@ -10,12 +10,12 @@ Let’s dive into the details. Our smart contracts will take 50% of the $ONE rew
 
 You must be a delegator to the OpenSwap validator. The OpenX Auto-Compound 20% APY node validator is the only Harmony validator that allows you to auto-compound your rewards directing into staked LP farms. You can stake your $ONE tokens on the harmony staking site or through OpenSwap.
 
-**STEP 1:** Go to Openswap.one \*\*Confirm your Harmony Browser wallet selected is connected to the site. Staking is not available with MetaMask at this time\*\* \
+**STEP 1:** Go to Openswap.one \
 **STEP 2:** Click on ‘Farm’ in the menu \
 **STEP 3:** Click ‘Details’ on the ‘OpenX Auto-Compound 20% APY Validator’\
 **STEP 4:** Click ‘Settings’\
 **STEP 5:** Under the ‘Set Compounding Farm’ area, find the farm you would like to have your rewards converted into and click ‘Select’\
-**STEP 6:** A popup will appear from the Harmony Browser Wallet. Enter any security information required. Click ‘Approve’ \
+**STEP 6:** A popup will appear from the wallet. Enter any security information required. Click ‘Approve’ \
 **STEP 7:** Click ‘Confirm and Sign’
 
 

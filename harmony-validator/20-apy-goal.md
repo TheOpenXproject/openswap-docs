@@ -4,7 +4,7 @@
 
 One of our largest goals is to accomplish the vision of Harmony’s founder Stephen Tse. We are working to provide Universal Basic income for the people of the world. Utilizing Harmony’s staking platform combined with our liquidity pools we will bring 20% yields to single staking on Harmony, helping provide financial freedom for billions worldwide.
 
-You can access the OpenX validator through the [Harmony Staking site](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) or through [OpenSwap](delegating-usdone-on-openswap/).  At this time, you must use the Harmony browser wallet if you are delegating to the OpenSwap validator.  This is a Harmony limitation, not OpenSwap.
+You can access the OpenX validator through the [Harmony Staking site](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) or through [OpenSwap](delegating-usdone-on-openswap/). Delegation is available using MetaMask or the Harmony Browser wallet.
 
 By [accessing your delegated tokens through OpenSwap](delegating-usdone-on-openswap/updating-reward-ratio.md), you can change the percentage of rewards you receive in OpenX. You can now adjust the percentage of the rewards you receive or setup auto-compounding.
 
@@ -14,7 +14,7 @@ You can also setup this validator to auto-compound your rewards into a staked LP
 
 ### **How do we accomplish 20% APY?**
 
-It all starts with the [OpenX Auto-Compound 20% Validator](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) on the Harmony One staking site.  ****  Stake your $ONE tokens with the validator.  When $ONE rewards are created, the rewards issued will be swapped for OpenX tokens at market price.  The token swap occurs every 30 minutes; these tokens will then be sent to the corresponding wallet of the delegator.  The OpenX tokens are converted and sent in a single tx to all the delegators based on their stake weight. Same way it would on a normal validator.  Next we move to the bonus rewards that you receive.
+It all starts with the [OpenX Auto-Compound 20% Validator](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) on the Harmony One staking site.  ****  Stake your $ONE tokens with the validator.  When $ONE rewards are created, the rewards issued will be swapped for OpenX tokens at market price.  The token swap occurs multiple times a day; these tokens will then be sent to the corresponding wallet of the delegator.  The OpenX tokens are converted and sent in a single tx to all the delegators based on their stake weight. Same way it would on a normal validator.  Next we move to the bonus rewards that you receive.
 
 ### **Bonus Rewards!!**
 
@@ -36,7 +36,7 @@ For a complete guide on setting up auto-compounding, visit:
 
 ### **Impact the validator has on OpenX**
 
-This validator node helps create automatic and constant buying pressure for the OpenSwap token.  ****  Conducting the buys every 30 minutes, there will always be a constant influx of OpenX purchase. &#x20;
+This validator node helps create automatic and constant buying pressure for the OpenSwap token.  ****  Conducting the buys multiple times a day, there will always be a constant influx of OpenX purchase. &#x20;
 
 ### Example of a Token Distribution Transaction
 

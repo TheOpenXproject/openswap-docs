@@ -1,6 +1,6 @@
 # Staking $ONE
 
-**STEP 1:** Go to Openswap.one \*\*Confirm your Harmony Browser wallet selected is connected to the site.  Staking is not available with MetaMask at this time\*\*\
+**STEP 1:** Go to Openswap.one \
 **STEP 2:** Click on ‘Farm’ in the menu\
 **STEP 3:** Click ‘Details’ on the validator of your choosing\
 **STEP 4:** Enter in the amount of $ONE to stake in the ‘Stake Amount’ area\
