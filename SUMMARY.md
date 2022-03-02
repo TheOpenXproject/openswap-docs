@@ -43,6 +43,7 @@
 
 * [OpenSwap $ONE click bridge](bridge-assets/openswap-one-click-bridge/README.md)
   * [Bridging from Harmony](bridge-assets/openswap-one-click-bridge/sending-tokens-from-harmony.md)
+  * [Bridge Troubleshooting](bridge-assets/openswap-one-click-bridge/bridge-troubleshooting.md)
 
 ## Information
 
@@ -52,5 +53,5 @@
 * [Social Media](information/social-media.md)
 * [Medium Articles](information/medium-articles.md)
 * [OpenSwap V2 Migration](information/openswap-v2-migration.md)
+* [Safety and Security](information/safety-and-security.md)
 * [List your token to OpenSwap](information/list-your-token-to-openswap.md)
-* [15% OpenSwap rewards](information/15-oswap-rewards.md)
