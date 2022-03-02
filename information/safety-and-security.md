@@ -5,6 +5,7 @@
 1. When creating a wallet, keep a copy of your security key private and do not share them with any one. &#x20;
 2. Store your security key! If you lose you security keys, you may lose access to your crypto.
 3. When in chat rooms, very rarely will a moderator or team member DM you directly.  Any direct DM should be met with scrutiny.
+4. Be cautious when granting sites access to your wallet. Research and trust the sites you approve your wallet to interact with.
 
 ### Tips for PC security
 
