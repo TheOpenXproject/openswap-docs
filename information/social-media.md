@@ -5,7 +5,7 @@ You can interact with OpenSwap through the following Social Media platforms:
 Twitter: [https://twitter.com/OpenSwap\_one](https://twitter.com/OpenSwap\_one)\
 Telegram: [https://t.me/OpenSwap\_Harmony](https://t.me/OpenSwap\_Harmony)\
 Telegram Announcements: [https://t.me/openswap\_announcements](https://t.me/openswap\_announcements)\
-Discord: [https://discord.com/invite/Hau5FFPxzS](https://discord.com/invite/Hau5FFPxzS)\
+Discord: [https://discord.gg/openswap](https://discord.gg/openswap)\
 Reddit: [https://www.reddit.com/r/OpenSwap\_Harmony/](https://www.reddit.com/r/OpenSwap\_Harmony/)\
 Medium: [https://openswap-harmony.medium.com/](https://openswap-harmony.medium.com)\
 YouTube Channel: [https://www.youtube.com/c/OpenSwap](https://www.youtube.com/c/OpenSwap)\
