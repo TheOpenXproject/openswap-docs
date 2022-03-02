@@ -12,7 +12,7 @@
 * [Opinion](tokenomics/opinion.md)
 * [Token Burns](tokenomics/token-burns.md)
 
-## Harmony ONE Validators <a href="#harmony-validator" id="harmony-validator"></a>
+## Harmony ONE Validator <a href="#harmony-validator" id="harmony-validator"></a>
 
 * [OpenX Auto-Compound 20% APY Validator](harmony-validator/20-apy-goal.md)
 * [Delegating $ONE on OpenSwap](harmony-validator/delegating-usdone-on-openswap/README.md)
