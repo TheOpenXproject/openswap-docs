@@ -14,7 +14,7 @@
 
 ## Harmony ONE Validator <a href="#harmony-validator" id="harmony-validator"></a>
 
-* [OpenX Auto-Compound 20% APY Validator](harmony-validator/20-apy-goal.md)
+* [OpenX Auto-Compounding Validator](harmony-validator/20-apy-goal.md)
 * [Delegating $ONE on OpenSwap](harmony-validator/delegating-usdone-on-openswap/README.md)
   * [Staking $ONE](harmony-validator/delegating-usdone-on-openswap/staking-usdone.md)
   * [Unstaking $ONE](harmony-validator/delegating-usdone-on-openswap/unstaking-usdone.md)

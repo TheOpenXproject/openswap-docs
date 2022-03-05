@@ -1,6 +1,6 @@
-# OpenX Auto-Compound 20% APY Validator
+# OpenX Auto-Compounding Validator
 
-### OpenX Auto-Compound 20% APY **: where earning up to 20% APY begins**
+### OpenX Auto-Compounding Validator: putting your rewards to work for you
 
 One of our largest goals is to accomplish the vision of Harmony’s founder Stephen Tse. We are working to provide Universal Basic income for the people of the world. Utilizing Harmony’s staking platform combined with our liquidity pools we will bring 20% yields to single staking on Harmony, helping provide financial freedom for billions worldwide.
 
