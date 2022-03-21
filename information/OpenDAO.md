@@ -1,4 +1,4 @@
-# Harmony Grant Proposal
+# OpenDAO tool
 
 OpenSwap recently submitted a proposal for a Harmony grant to build a new smarter DAO. The DAO will have it's actions managed through automated and dynamic smart contracts. This could be considered a multi managed dynamic contract manager with user consensus.
 
@@ -12,6 +12,5 @@ What does this mean? As the DAO is managed by users designated as ‘Angels’; 
 
 The proposal includes the creation of the OpenSwap DAO as proof of concept.&#x20;
 
-Furthermore, this includes the ability for future DAOs to use the same tech in their creation. This tech is meant to share with the entire community and future DAOs. Licensing will remain in place to protect intellectual property, but the contracts will be open source. The ability to create new DAOs will be open to anyone on any chain with a small fee (to cover gas) for deployment of contracts.
+Furthermore, this includes the ability for future DAOs to use the same tech in their creation. The ability to create new DAOs will be open to anyone on any chain.
 
-Please review the OpenSwap proposal and like / comment / ask questions on it.

@@ -49,7 +49,7 @@
 
 * [Smart Contracts](information/smart-contracts.md)
 * [OpenSwap University](information/openswap-university.md)
-* [Harmony Grant Proposal](information/harmony-grant-proposal.md)
+* [OpenDAO tool](information/OpenDAO.md)
 * [Social Media](information/social-media.md)
 * [Medium Articles](information/medium-articles.md)
 * [OpenSwap V2 Migration](information/openswap-v2-migration.md)
