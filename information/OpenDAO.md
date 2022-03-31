@@ -2,12 +2,6 @@
 
 OpenSwap recently submitted a proposal for a Harmony grant to build a new smarter DAO. The DAO will have it's actions managed through automated and dynamic smart contracts. This could be considered a multi managed dynamic contract manager with user consensus.
 
-### Information Sheet
-
-The information sheet regarding the OpenDAO Tooling can be found here:&#x20;
-
-{% file src="../.gitbook/assets/opendao tooling_info sheet.pdf" %}
-
 ### Official Proposal
 
 The official proposal can be found here: [https://talk.harmony.one/t/openswap-dao-opendao-developement/8164 ](https://talk.harmony.one/t/openswap-dao-opendao-developement/8164)
