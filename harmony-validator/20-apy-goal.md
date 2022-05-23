@@ -4,7 +4,7 @@
 
 One of our largest goals is to accomplish the vision of Harmony’s founder Stephen Tse. We are working to provide Universal Basic income for the people of the world. Utilizing Harmony’s staking platform combined with our liquidity pools we will bring 20% yields to single staking on Harmony, helping provide financial freedom for billions worldwide.
 
-You can access the OpenX validator through the [Harmony Staking site](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) or through [OpenSwap](delegating-usdone-on-openswap/). Delegation is available using MetaMask or the Harmony Browser wallet.
+You can access the OpenX validator through the [Harmony Staking site](https://staking.harmony.one/validators/mainnet/one1j35d0vd4uzwffeawjjfukn8t9wjt8csungj0z0) or through [OpenSwap](delegating-usdone-on-openswap/). Delegation is available using MetaMask.
 
 By [accessing your delegated tokens through OpenSwap](delegating-usdone-on-openswap/updating-reward-ratio.md), you can change the percentage of rewards you receive in OpenX. You can now adjust the percentage of the rewards you receive or setup auto-compounding.
 

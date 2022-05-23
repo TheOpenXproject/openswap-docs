@@ -51,7 +51,7 @@ For safety, please be sure to check that the values in the corresponding MetaMas
 
 Network Name: Harmony Mainnet
 
-New RPC URL:[ https://api.harmony.one/](https://api.harmony.one)
+New RPC URL:[ https://api.harmony.one/](https://api.harmony.one/)
 
 Chain ID: 1666600000
 

@@ -1,6 +1,6 @@
 # Wallets
 
-Currently, OpenSwap supports 2 wallets: Metamask and Harmony One. &#x20;
+Currently, OpenSwap supports Metamask. &#x20;
 
 If you have one of the supported wallets, you can click on the button in the top right 'Connect Wallet' or the Wallet icon.  This will prompt action in your wallet to allow the website to connect.  Once connected, you will be able to use the full features of OpenSwap.
 

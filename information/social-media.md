@@ -7,7 +7,7 @@ Telegram: [https://t.me/OpenSwap\_Harmony](https://t.me/OpenSwap\_Harmony)\
 Telegram Announcements: [https://t.me/openswap\_announcements](https://t.me/openswap\_announcements)\
 Discord: [https://discord.gg/openswap](https://discord.gg/openswap)\
 Reddit: [https://www.reddit.com/r/OpenSwap\_Harmony/](https://www.reddit.com/r/OpenSwap\_Harmony/)\
-Medium: [https://openswap-harmony.medium.com/](https://openswap-harmony.medium.com)\
+Medium: [https://openswap-harmony.medium.com/](https://openswap-harmony.medium.com/)\
 YouTube Channel: [https://www.youtube.com/c/OpenSwap](https://www.youtube.com/c/OpenSwap)\
 Github: [https://github.com/TheOpenFinanceProject](https://github.com/TheOpenFinanceProject)\
 Linktree: [https://linktr.ee/openswap](https://linktr.ee/openswap)\

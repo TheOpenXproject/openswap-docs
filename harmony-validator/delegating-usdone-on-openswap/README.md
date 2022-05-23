@@ -2,7 +2,7 @@
 
 With OpenSwap, you have the ability to control your delegated tokens directly through the OpenSwap website on the 'Farm' page. Granting the ability to stake / unstake and view details about your delegated tokens all on OpenSwap. The ability to choose the percentage of rewards you would like to receive in OpenX grants the user more flexibility with their rewards.
 
-This interface allows you to stake or unstake $ONE with the validator directly through the OpenSwap website while using MetaMask or the Harmony Browser Wallet. Alleviating the need to visit multiple websites unnecessarily. OpenSwap is your one stop shop for DeFi.
+This interface allows you to stake or unstake $ONE with the validator directly through the OpenSwap website while using MetaMask. Alleviating the need to visit multiple websites unnecessarily. OpenSwap is your one stop shop for DeFi.
 
 ### Only Harmony Validator with Auto-Compounding
 

@@ -24,7 +24,6 @@
 ## User Guide <a href="#guide" id="guide"></a>
 
 * [Wallets](guide/wallets/README.md)
-  * [Harmony One Wallet](guide/wallets/harmony-one-wallet.md)
   * [Metamask Wallet](guide/wallets/setting-up-metamask.md)
   * [Harmony ONE Address](guide/wallets/harmony-one-coins.md)
 * [Tokens](guide/tokens/README.md)
