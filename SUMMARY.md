@@ -46,6 +46,7 @@
 
 ## Information
 
+* [Optimism relaunch](information/optimism-relaunch.md)
 * [Smart Contracts](information/smart-contracts.md)
 * [OpenSwap University](information/openswap-university.md)
 * [OpenDAO tool](information/OpenDAO.md)
